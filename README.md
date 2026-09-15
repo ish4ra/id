@@ -4,6 +4,12 @@ Source for my GitHub Pages site.
 
 The site content lives in [`index.md`](index.md), while [`_config.yml`](_config.yml) contains the Jekyll theme configuration used by GitHub Pages.
 
+## Project structure
+
+- `index.md` — page content published by GitHub Pages
+- `_config.yml` — Jekyll configuration and Cayman theme selection
+- `README.md` — repository documentation
+
 ## Updating the site
 
 1. Edit `index.md` for page content.
